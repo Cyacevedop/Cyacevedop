@@ -4,25 +4,23 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, Typescript, HTML, CSS, CSharp],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React", "Next"],
+         css: ["Tailwind", "Material UI"]
       },
       backEnd: {
-         java: ["Spring"],
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         ts: ["Next"]
+         csharp: ["Unity"],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      ORM: ["Prisma", "Sequelize"],
+      mobile: ["Android"]
    },
    currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   challenge: "I'm working on learn so much as i can",
 };
 ```
-</br></br>
-<h2>💻 Some stats 💻</h2>
+
+
