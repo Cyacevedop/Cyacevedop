@@ -21,7 +21,8 @@ const aboutMe = {
    contact:{
       email: "cris-a2112@hotmail.com",
       phone: "+57 3005398342",
-      country: "Colombia"
+      country: "Colombia",
+      linkedin: "https://www.linkedin.com/in/cristian-acevedo-posada-275a7925a/"
    }
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working on learn so much as i can",
