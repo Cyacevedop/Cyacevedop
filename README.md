@@ -13,11 +13,16 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"],
          ts: ["Next"]
-         csharp: ["Unity"],
+         csharp: "Unity",
       },
       ORM: ["Prisma", "Sequelize"],
       mobile: ["Android"]
    },
+   contact:{
+      email: cris-a2112@hotmail.com,
+      phone: +57 3005398342,
+      country: Colombia
+   }
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working on learn so much as i can",
 };
