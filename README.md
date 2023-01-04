@@ -25,7 +25,7 @@ const aboutMe = {
       linkedin: "https://www.linkedin.com/in/cristian-acevedo-posada-275a7925a/"
    }
    projects:{
-      SiriusVSG: "https://espectrosingular.vsglatam.com/2,
+      SiriusVSG: "https://espectrosingular.vsglatam.com/",
       Pawsitive: "https://pf-pawsitive-app-git-develop-arbelais.vercel.app/"
    }
    
