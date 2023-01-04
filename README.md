@@ -24,7 +24,13 @@ const aboutMe = {
       country: "Colombia",
       linkedin: "https://www.linkedin.com/in/cristian-acevedo-posada-275a7925a/"
    }
+   projects:{
+      SiriusVSG: https://espectrosingular.vsglatam.com/,
+      Pawsitive: https://pf-pawsitive-app-git-develop-arbelais.vercel.app/
+   }
+   
    currentOccupation: ["last year student, open for job opportunities"],
+   
    challenge: "I'm working on learn so much as i can",
 };
 ```
